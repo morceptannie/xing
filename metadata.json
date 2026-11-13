@@ -1,0 +1,8 @@
+{
+  "name": "新永成行｜餐飲器皿鍋具批發倉",
+  "description": "新永成行官方網站與線上批發商城 Demo — 台中北區餐飲器皿、商用鍋具、陶瓷碗盤、不鏽鋼調理器具批發零售，支援行動裝置響應式瀏覽與 WooCommerce 標準電商購物流程。",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
